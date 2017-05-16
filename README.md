@@ -9,7 +9,7 @@
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.wangchonghui2219:citylevelutiles:1.0'
+	           compile 'com.github.wangchonghui2219:citylevelutiles:1.1'
 	}
   
     //显示窗体
